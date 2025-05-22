@@ -8,4 +8,4 @@ Sistema de facturación desarrollado en Java para gestionar clientes, productos 
 
 ## Uso
 - Registra clientes y productos en la interfaz gráfica.
-- Genera facturas con cálculo automático de IVA (13%).
+- Genera facturas con cálculo automático de IVA (16%).
